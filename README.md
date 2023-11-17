@@ -5,7 +5,7 @@
 This project uses Tensorflow Functional API to implement deep facial recognition system using a Siamese neural network. Each step is mentioned in the siamese_network.ipynb notebook along with the code and explanations.
 This projects follows this paper for building the model - https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
-![PositiveVerificationImg](https://github.com/sanskarmodi8/deep_facial_recognition/blob/main/pos_verified.png) ![NegativeVerificationImg](https://github.com/sanskarmodi8/deep_facial_recognition/blob/main/neg_verified.png)
+![RecognitionResultPNG](https://github.com/sanskarmodi8/deep_facial_recognition/blob/main/recognition_result.png)
 
 ## Table of Contents
 
