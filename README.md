@@ -50,11 +50,17 @@ The trained model is used for real-time verification in a webcam feed. Positive 
 
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the notebook which performs following steps:
+   
 => Collect and preprocess data
+
 => Build and Train the Siamese model
+
 => Evaluate the model on test data
+
 => Save the model
+
 => Real-time verification using OpenCV
+
 
 ## Contributing
 
